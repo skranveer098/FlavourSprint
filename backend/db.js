@@ -1,5 +1,6 @@
 const mongoose = require('mongoose');
 
+
 const mongoURI = 'mongodb+srv://ranveersinghsingh2644:wYEQMsnck8Szdk6e@cluster0.zs1d1kg.mongodb.net/Food-Delivery-App?retryWrites=true&w=majority';
 
 module.exports = function (callback) {
